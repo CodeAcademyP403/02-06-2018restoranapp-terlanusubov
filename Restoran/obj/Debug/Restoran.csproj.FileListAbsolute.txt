@@ -1,0 +1,10 @@
+D:\Code_Ders\Restoran\Restoran\bin\Debug\Restoran.exe.config
+D:\Code_Ders\Restoran\Restoran\bin\Debug\Restoran.exe
+D:\Code_Ders\Restoran\Restoran\bin\Debug\Restoran.pdb
+D:\Code_Ders\Restoran\Restoran\obj\Debug\Restoran.csprojAssemblyReference.cache
+D:\Code_Ders\Restoran\Restoran\obj\Debug\Restoran.MainForm.resources
+D:\Code_Ders\Restoran\Restoran\obj\Debug\Restoran.Properties.Resources.resources
+D:\Code_Ders\Restoran\Restoran\obj\Debug\Restoran.csproj.GenerateResource.cache
+D:\Code_Ders\Restoran\Restoran\obj\Debug\Restoran.csproj.CoreCompileInputs.cache
+D:\Code_Ders\Restoran\Restoran\obj\Debug\Restoran.exe
+D:\Code_Ders\Restoran\Restoran\obj\Debug\Restoran.pdb
